@@ -1,6 +1,6 @@
 # Hi, Santiago here 👋
 
-![universe-banner](/images/space-banner.png)
+![universe-banner](https://e0.pxfuel.com/wallpapers/497/90/desktop-wallpaper-aesthetic-black-page-edgy.jpg)
 
 _Enthusiast software developer, passionate musician and self taught student._
 
